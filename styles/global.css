@@ -43,3 +43,10 @@ a {
 ul {
     margin: 0;
 }
+
+button,
+input,
+textarea,
+select {
+    font-family: inherit;
+}
